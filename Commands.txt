@@ -1,0 +1,11 @@
+Command used not to forget
+======================================
+
+Translate Extension in VSCode: ALT+SHIFT+T
+
+
+
+
+
+
+
